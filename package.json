@@ -1,0 +1,25 @@
+{
+  "name": "johnnyenglish",
+  "version": "1.0.0",
+  "description": "Johnny English the Language Detective",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instafluff/JohnnyEnglish.git"
+  },
+  "author": "Instafluff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/instafluff/JohnnyEnglish/issues"
+  },
+  "homepage": "https://github.com/instafluff/JohnnyEnglish#readme",
+  "dependencies": {
+    "brain.js": "^1.6.1",
+    "comfy-translate": "^1.1.2",
+    "comfy.js": "^1.0.5",
+    "node-storage": "0.0.7"
+  }
+}
